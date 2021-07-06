@@ -1,4 +1,4 @@
-## steamlit_multipage_financial_dashboard  
+## streamlit_multipage_financial_dashboard  
 
 Created a financial dashboard to testdrive streamlit's python based dashboard building framework.
 
@@ -55,7 +55,7 @@ $ streamlit run app.py
 
 ```
 
-## Referred resources:
+## References:
 
 Used the python code and ideas for project structure from the below resources.
 
@@ -65,7 +65,7 @@ https://towardsdatascience.com/creating-a-finance-web-app-in-3-minutes-8273d56a3
 
 https://github.com/hackingthemarkets/fullstack-trading-app
 
-## Streamlist cheatsheet
+## Streamlit cheatsheet
 
 https://share.streamlit.io/daniellewisdl/streamlit-cheat-sheet/app.py
 
